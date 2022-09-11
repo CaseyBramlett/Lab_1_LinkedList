@@ -1,0 +1,21 @@
+﻿  CreateListFromFile.cpp
+E:\school\Sophmore year\CS 221\Lab 1\Lab_1_LinkedList\CreateListFromFile.cpp(1,6): error C2182: 'CreateListFromFile': illegal use of type 'void'
+E:\school\Sophmore year\CS 221\Lab 1\Lab_1_LinkedList\CreateListFromFile.cpp(1,25): error C2065: 'ifstream': undeclared identifier
+E:\school\Sophmore year\CS 221\Lab 1\Lab_1_LinkedList\CreateListFromFile.cpp(1,35): error C2065: 'dataFile': undeclared identifier
+E:\school\Sophmore year\CS 221\Lab 1\Lab_1_LinkedList\CreateListFromFile.cpp(1,45): error C2065: 'UnsortedType': undeclared identifier
+E:\school\Sophmore year\CS 221\Lab 1\Lab_1_LinkedList\CreateListFromFile.cpp(1,59): error C2065: 'list': undeclared identifier
+E:\school\Sophmore year\CS 221\Lab 1\Lab_1_LinkedList\CreateListFromFile.cpp(6,1): error C2143: syntax error: missing ';' before '{'
+E:\school\Sophmore year\CS 221\Lab 1\Lab_1_LinkedList\CreateListFromFile.cpp(6,1): error C2447: '{': missing function header (old-style formal list?)
+  ItemType.cpp
+  listDriver.cpp
+E:\school\Sophmore year\CS 221\Lab 1\Lab_1_LinkedList\listDriver.cpp(46,3): error C2143: syntax error: missing ';' before '}'
+  PrintList.cpp
+E:\school\Sophmore year\CS 221\Lab 1\Lab_1_LinkedList\PrintList.cpp(1,6): error C2182: 'PrintList': illegal use of type 'void'
+E:\school\Sophmore year\CS 221\Lab 1\Lab_1_LinkedList\PrintList.cpp(1,16): error C2065: 'ofstream': undeclared identifier
+E:\school\Sophmore year\CS 221\Lab 1\Lab_1_LinkedList\PrintList.cpp(1,26): error C2065: 'dataFile': undeclared identifier
+E:\school\Sophmore year\CS 221\Lab 1\Lab_1_LinkedList\PrintList.cpp(1,36): error C2065: 'UnsortedType': undeclared identifier
+E:\school\Sophmore year\CS 221\Lab 1\Lab_1_LinkedList\PrintList.cpp(1,50): error C2065: 'list': undeclared identifier
+E:\school\Sophmore year\CS 221\Lab 1\Lab_1_LinkedList\PrintList.cpp(6,1): error C2143: syntax error: missing ';' before '{'
+E:\school\Sophmore year\CS 221\Lab 1\Lab_1_LinkedList\PrintList.cpp(6,1): error C2447: '{': missing function header (old-style formal list?)
+  unsorted.cpp
+  Generating Code...
